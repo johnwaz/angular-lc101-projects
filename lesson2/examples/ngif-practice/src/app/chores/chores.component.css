@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+.ice-cream {
+    color: green;
+}
+
+.ice-cream-rules {
+    text-align: center;
+    color: green;
+}
